@@ -6,6 +6,9 @@
   "main": "dist/main.js",
   "author": "",
   "license": "ISC",
+  "files": [
+    "dist/*"
+  ],
   "scripts": {
     "watch": "parcel watch",
     "build": "parcel build"
